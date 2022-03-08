@@ -1,0 +1,15 @@
+.nav--container {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.nav--links--container {
+    display: flex;
+    align-self: center;
+    text-align: right;
+}
+
+.nav--link {
+    padding-left: 10px;
+}
