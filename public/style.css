@@ -1,7 +1,13 @@
+body {
+    margin: 0;
+}
+
 .nav--container {
+    padding: 10px;
     display: flex;
     text-align: center;
     justify-content: space-between;
+    box-shadow: 5px 12px 15px -7px rgba(0,0,0,0.59);
 }
 
 .nav--links--container {
